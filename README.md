@@ -88,7 +88,7 @@ Token is sent with API requests
 
 Backend validates token before allowing access
 
-## 📂 Project Structure
+'''📂 Project Structure
 CampusCart/
 │
 ├── server/
@@ -105,7 +105,7 @@ CampusCart/
 │
 ├── package.json
 ├── README.md
-└── .env
+└── .env'''
 
 ⚙ Installation & Setup
 Prerequisites
